@@ -1,0 +1,55 @@
+TC-001 | Movement | Move left
+TC-002 | Movement | Move right
+TC-003 | Movement | Move up
+TC-004 | Movement | Move down
+TC-005 | Movement | Move in multiple directions
+TC-006 | Movement | Stop movement
+TC-007 | Movement | Move against a level boundary
+
+TC-008 | Jumping | Jump from a stationary position
+TC-009 | Jumping | Jump while moving
+TC-010 | Jumping | Jump onto a platform
+TC-011 | Jumping | Jump through/over an obstacle
+TC-012 | Jumping | Attempt to jump while airborne
+
+TC-013 | Shooting | Fire weapon
+TC-014 | Shooting | Fire repeatedly
+TC-015 | Shooting | Shoot while moving
+TC-016 | Shooting | Shoot while jumping
+TC-017 | Shooting | Shoot at an enemy
+TC-018 | Shooting | Attempt to shoot when ammunition is depleted
+
+TC-019 | Reloading | Reload weapon with ammunition remaining
+TC-020 | Reloading | Reload weapon when magazine is empty
+TC-021 | Reloading | Attempt to reload while already reloading
+TC-022 | Reloading | Reload while moving
+TC-023 | Reloading | Reload after firing
+
+TC-024 | Weapon Switching | Switch to next weapon
+TC-025 | Weapon Switching | Switch to previous weapon
+TC-026 | Weapon Switching | Switch weapons repeatedly
+TC-027 | Weapon Switching | Switch weapons while moving
+TC-028 | Weapon Switching | Switch weapons after firing
+
+TC-029 | Enemies | Encounter an enemy
+TC-030 | Enemies | Attack an enemy
+TC-031 | Enemies | Take damage from an enemy
+TC-032 | Enemies | Defeat an enemy
+TC-033 | Enemies | Avoid an enemy without attacking
+
+TC-034 | Health/Damage | Take damage
+TC-035 | Health/Damage | Take multiple instances of damage
+TC-036 | Health/Damage | Reach zero health
+
+TC-037 | Death/Restart | Die during gameplay
+TC-038 | Death/Restart | Restart after death
+
+TC-039 | Level Transitions | Complete a level
+TC-040 | Level Transitions | Transition between levels
+
+TC-041 | Menus/UI | Open the main menu
+TC-042 | Menus/UI | Navigate menu options
+TC-043 | Menus/UI | Open the pause menu
+TC-044 | Menus/UI | Resume the game from pause
+TC-045 | Menus/UI | Change an available setting
+TC-046 | Menus/UI | Exit the game from the menu
